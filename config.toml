@@ -17,7 +17,7 @@ theme = "hugo-strata-theme"
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "avatar.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**I'm Rob Bunting**, a super simple<br> responsive site template freebie<br> crafted by [HTML5 UP](//html5up.net)."
+		bio = "**I'm Rob Bunting**, I love to interpret the natural world in metal and stone."
 		# The icons will be shown if you enter your username
 		twitter = ""
 		github = ""
@@ -77,10 +77,10 @@ theme = "hugo-strata-theme"
 
 	[params.contact]
 		title = "Get In Touch"
-		content = "Accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque lorem ipsum dolor."
+		content = "If you have an idea that you'd like to see made real, please get in touch."
 
 		address = [
-			"133 Whitfield St.",
+			"PO Box 208",
 			"Guilford, CT 06437",
 			"United States"
 		]
