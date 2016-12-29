@@ -29,8 +29,8 @@ theme = "hugo-strata-theme"
 
 
 	[params.about]
-		title = "Ipsum lorem dolor aliquam ante commodo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
+		title = "Handcrafted Copper Accessories for Home and Garden"
+		content = "Master Coppersmith Rob Bunting transforms copper sheet metal into a wide variety of striking figures, from swimming mermaids to smiling pigs, garden sculpture to wall decor and home furnishings. <br/><br/> Rob is a former jeweler and silversmith who discovered his true calling while experimenting with metal left over from a remodeling job.  Since 1984 he works full time pounding out his creations in a barn workshop behind the rambling Victorian house he shares with his wife and two boys in Guilford, CT.<br/><br/>Hammered pieces are formed using the technique of reposse (French for “from the back”)  A sheet of copper is fixed  to a wooden silhouette die.  Details are drawn in from the front and punched into the copper with a hammer and chasing tools. The frame is turned over and the piece is given its depth with man blows form the various hammers. After refining details, The piece is removed from the form and cut out using hand shears then Any additional parts are soldered on and the desired finish is applied.  "
 
 
 	[params.portfolio]
@@ -84,7 +84,7 @@ theme = "hugo-strata-theme"
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = ""
+		email = "jrobertbunting@gmail.com"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
