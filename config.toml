@@ -1,4 +1,4 @@
-baseurl = "http://ctcoppersmiths.com"
+baseurl = "http://ctcoppersmiths.com/"
 languageCode = "en-us"
 title = "Connecticut Coppersmiths"
 theme = "hugo-strata-theme"
