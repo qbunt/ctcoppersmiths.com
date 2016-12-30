@@ -1,4 +1,4 @@
-baseurl = "http://ctcoppersmiths.com/"
+baseurl = "http://ctcoppersmiths.com"
 languageCode = "en-us"
 title = "Connecticut Coppersmiths"
 theme = "hugo-strata-theme"
@@ -10,8 +10,7 @@ theme = "hugo-strata-theme"
 	description = "Connecticut Coppersmiths"
 
 	# Enable Google Analytics by inserting your tracking code
-	googleAnalytics = ""
-
+	googleAnalytics = "UA-89584756-1"
 
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
@@ -29,8 +28,8 @@ theme = "hugo-strata-theme"
 
 
 	[params.about]
-		title = "Handcrafted Copper Accessories for Home and Garden"
-		content = "Master Coppersmith Rob Bunting transforms copper sheet metal into a wide variety of striking figures, from swimming mermaids to smiling pigs, garden sculpture to wall decor and home furnishings. <br/><br/> Rob is a former jeweler and silversmith who discovered his true calling while experimenting with metal left over from a remodeling job.  Since 1984 he works full time pounding out his creations in a barn workshop behind the rambling Victorian house he shares with his wife and two boys in Guilford, CT.<br/><br/>Hammered pieces are formed using the technique of reposse (French for “from the back”)  A sheet of copper is fixed  to a wooden silhouette die.  Details are drawn in from the front and punched into the copper with a hammer and chasing tools. The frame is turned over and the piece is given its depth with man blows form the various hammers. After refining details, The piece is removed from the form and cut out using hand shears then Any additional parts are soldered on and the desired finish is applied.  "
+		title = "**Connecticut Coppersmiths**<br/>Handcrafted Copper Accessories for Home and Garden"
+		content = "Master Coppersmith Rob Bunting transforms copper sheet metal into a wide variety of striking figures, from swimming mermaids to smiling pigs, garden sculpture to wall decor and home furnishings. <br/><br/> Rob is a former jeweler and silversmith who discovered his true calling while experimenting with metal left over from a remodeling job.  Since 1984 he works full time pounding out his creations in a barn workshop behind the rambling Victorian house he shares with his wife and two boys in Guilford, CT.<br/><br/>Hammered pieces are formed using the technique of reposse (French for “from the back”)  A sheet of copper is fixed  to a wooden silhouette die.  Details are drawn in from the front and punched into the copper with a hammer and chasing tools. The frame is turned over and the piece is given its depth with man blows form the various hammers. After refining details, The piece is removed from the form and cut out using hand shears then Any additional parts are soldered on and the desired finish is applied."
 
 
 	[params.portfolio]
