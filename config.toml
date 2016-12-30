@@ -1,13 +1,13 @@
 baseurl = "http://ctcoppersmiths.com/"
 languageCode = "en-us"
-title = "Connecticut Coppersmiths"
+title = "Connecticut Coppersmiths - Rob Bunting"
 theme = "hugo-strata-theme"
 
 [params]
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Robert Bunting"
-	description = "Connecticut Coppersmiths"
+	name = "Connecticut Coppersmiths"
+	description = "Connecticut Coppersmiths, Handcrafted Copper Accessories for Home and Garden. Based in Guilford Connecticut"
 
 	# Enable Google Analytics by inserting your tracking code
 	googleAnalytics = "UA-89584756-1"
@@ -16,7 +16,7 @@ theme = "hugo-strata-theme"
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "avatar.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**I'm Rob Bunting**, I love to interpret the natural world in metal and stone."
+		bio = "**I'm Rob Bunting** - I love to interpret the natural world in metal and stone."
 		# The icons will be shown if you enter your username
 		twitter = ""
 		github = ""
@@ -28,8 +28,8 @@ theme = "hugo-strata-theme"
 
 
 	[params.about]
-		title = "**Connecticut Coppersmiths**<br/>Handcrafted Copper Accessories for Home and Garden"
-		content = "Master Coppersmith Rob Bunting transforms copper sheet metal into a wide variety of striking figures, from swimming mermaids to smiling pigs, garden sculpture to wall decor and home furnishings. <br/><br/> Rob is a former jeweler and silversmith who discovered his true calling while experimenting with metal left over from a remodeling job.  Since 1984 he works full time pounding out his creations in a barn workshop behind the rambling Victorian home in Guilford, CT."
+		title = "**Connecticut Coppersmiths**"
+		content = "Handcrafted Copper Accessories for Home and Garden <br/><br/>Master Coppersmith Rob Bunting transforms copper sheet metal into a wide variety of striking figures, from swimming mermaids to smiling pigs, garden sculpture to wall decor and home furnishings. <br/><br/> Rob is a former jeweler and silversmith who discovered his true calling while experimenting with metal left over from a remodeling job. Since 1984, he works full time pounding out his creations in a barn workshop behind a rambling Victorian home in Guilford Connecticut."
 
 
 	[params.portfolio]
