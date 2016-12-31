@@ -29,7 +29,7 @@ theme = "hugo-strata-theme"
 
 	[params.about]
 		title = "**Connecticut Coppersmiths**"
-		content = "Handcrafted Copper Accessories for Home and Garden <br/><br/>Master Coppersmith Rob Bunting transforms copper sheet metal into a wide variety of striking figures, from swimming mermaids to smiling pigs, garden sculpture to wall decor and home furnishings. <br/><br/> Rob is a former jeweler and silversmith who discovered his true calling while experimenting with metal left over from a remodeling job. Since 1984, he works full time pounding out his creations in a barn workshop behind a rambling Victorian home in Guilford Connecticut."
+		content = "Handcrafted Copper Accessories for Home and Garden <br/><br/>Master Coppersmith Rob Bunting transforms copper sheet metal into a wide variety of striking figures, from swimming mermaids to smiling pigs, garden sculpture to wall decor and home furnishings. <br/><br/> Rob is a former jeweler and silversmith who discovered his true calling while experimenting with metal left over from a remodeling job. Since 1984, he's been producing his creations in a barn workshop behind a rambling Victorian home in Guilford Connecticut."
 
 
 	[params.portfolio]
