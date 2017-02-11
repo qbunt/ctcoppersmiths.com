@@ -5,7 +5,7 @@ module.exports = function (shipit) {
         default: {
             workspace: '.shipit-temp',
             dirToCopy:'public',
-            deployTo: '/var/www/ctcoppersmiths.com/public_html',
+            deployTo: '/var/www/ctcoppersmiths.com/html',
             repositoryUrl: 'https://github.com/qbunt/ctcoppersmiths.com.git',
             ignores: ['.git', 'node_modules'],
             keepReleases: 2,
@@ -14,7 +14,7 @@ module.exports = function (shipit) {
             shallowClone: true
         },
         production: {
-            servers: 'qbunt@vermouth'
+            servers: 'qbunt@manhattan'
         }
     });
 };
