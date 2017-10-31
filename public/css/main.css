@@ -1,5 +1,4 @@
-@import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
+@import url("//fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic");
 
 /*
 	Strata by HTML5 UP
@@ -1606,7 +1605,6 @@
 		color: #787878;
 		font-weight: 400;
 		line-height: 1em;
-		margin: 0 0 1em 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -3106,3 +3104,54 @@
 			}
 
 	}
+
+
+	/* CUSTOM CSS */
+	.button {
+		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		background-color: transparent;
+		color: #787878 !important;
+		padding: 0 1.5em;
+		margin: 0 0 1.5em 0;
+		text-align: center;
+		white-space: nowrap;
+		border: solid 3px #efefef;
+		border-radius: 0.35em;
+		cursor: pointer;
+		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+	}
+
+	.spacer {
+		margin: 0.5em;
+		height: auto;
+	}
+
+	.recent-post {
+		margin: .2em 0 .2em 0;
+	}
+
+	#sidebar {
+		margin-top: 1.5em;
+	}
+
+	#sidebar ul li {
+		list-style: none;
+		font-size: 1.35em;
+		line-height: 1.5em;
+	}
+
+	#sidebar ul li a,
+	#sidebar ul li a a:visited {
+		color: #a2a2a2;
+		text-decoration: none;
+	}
+
+
+/*
+ * 	CUSTOM CSS
+ */
+
+ .recent-posts li {
+	 font-size: 20px;
+	 line-height: 36px;
+ }
