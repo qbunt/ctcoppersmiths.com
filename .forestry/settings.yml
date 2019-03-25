@@ -9,8 +9,8 @@ sections:
   label: Portfolio
   create: all
   match: "**/config.toml"
-upload_dir: static/uploads
-public_path: "/uploads"
+upload_dir: static/images
+public_path: ''
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
