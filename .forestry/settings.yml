@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Portfolio
   create: all
-  match: "**/*.{json,yaml,yml,toml}"
+  match: "**/config.toml"
 - type: directory
   path: content
   label: Pages
