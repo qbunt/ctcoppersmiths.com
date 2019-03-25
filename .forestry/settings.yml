@@ -9,11 +9,6 @@ sections:
   label: Portfolio
   create: all
   match: "**/config.toml"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
